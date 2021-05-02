@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recetas de Postres</string>
+    <string name="lbl_lista">Lista</string>
+    <string name="title">Recetas de postres</string>
+    <string name="lblIngredientes">Ingredientes</string>
+    <string name="lblProcedimiento">Procedimiento</string>
+    <string name="description">Imagen de Receta</string>
+</resources>
